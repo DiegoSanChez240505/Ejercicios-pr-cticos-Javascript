@@ -1,12 +1,12 @@
 Escuela Universidad Tecnologica Metropolitana
 
-Gestor-de-Tareas
+Ejercicios practicos de javascript
 
 Asignatura Aplicaciones Web
 
 ING.Diego Ivan May Tuz
 
-PRACTICA. Elaboración de actividad de listado de tareas.
+PRACTICA. Elaboración de funciones en javascript
 
 Alumno: Diego Alexander Sanchez Ek
 
